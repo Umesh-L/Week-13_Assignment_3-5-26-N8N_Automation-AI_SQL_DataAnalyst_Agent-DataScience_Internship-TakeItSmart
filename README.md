@@ -38,7 +38,13 @@ This is the **n8n project** in the repository. It runs a daily workflow that col
 - `Screen Recording/`
 
 ### Output snapshots 🖼️
+<img width="1919" height="1079" alt="n8n workflow" src="https://github.com/user-attachments/assets/5c2b66fc-b22b-4e55-8512-32ee797afe63" />
 
+<img width="1919" height="1079" alt="result email 1 1" src="https://github.com/user-attachments/assets/1052e3e1-561b-405d-8d8d-1347d0bf12c3" />
+
+<img width="1919" height="1079" alt="result email 1 2" src="https://github.com/user-attachments/assets/b7bfeee6-64ec-4158-9a97-ff5d6d4a97e2" />
+
+<img width="1919" height="1079" alt="result email 1 3" src="https://github.com/user-attachments/assets/ab251491-9f0f-402b-b740-ccfa8ffd6285" />
 
 ## Project 2: AI SQL Data Analyst Agent (CSV → SQL → Insights) 📊
 
@@ -146,9 +152,28 @@ streamlit run app.py
 
 ### Output snapshots 🖼️
 
+<img width="1919" height="1079" alt="code file screenshot" src="https://github.com/user-attachments/assets/76b5d241-f663-4ab8-8731-8228a4a76378" />
+
+<img width="1919" height="1079" alt="project streamlit interface" src="https://github.com/user-attachments/assets/d1be6400-822f-4bf8-a35d-46758542eeab" />
+
+<img width="1919" height="1079" alt="csv dataset upload" src="https://github.com/user-attachments/assets/7cdcd0f4-1d6a-41ed-a79e-edc7577a5979" />
+
+<img width="1919" height="1078" alt="example prompt output 1" src="https://github.com/user-attachments/assets/788a79d6-f6f0-4b3c-ae33-cdf1dec3f9e1" />
+
+<img width="1881" height="1059" alt="example prompt output 2" src="https://github.com/user-attachments/assets/bba13bb5-e1b6-42f5-8370-ece56f47b788" />
+
+<img width="1919" height="1065" alt="example prompt output 3" src="https://github.com/user-attachments/assets/787f5743-a3f9-4b47-b88b-57b7864e1072" />
+
+<img width="1919" height="1079" alt="sqlite db file" src="https://github.com/user-attachments/assets/379cc0c0-3a7a-4bad-a220-234ad718b95f" />
+
 
 ### Project explanation video 🎥
 
+#### - AI News Auto-Blogger and Email Automation
+https://github.com/user-attachments/assets/a7fe696a-8644-450e-803a-a7d8b8075465
+
+#### - AI SQL Data Analyst Agent
+https://github.com/user-attachments/assets/89135c93-0c63-42fb-a043-e8d99b62ec4f
 
 ## Overall project results ✅
 
