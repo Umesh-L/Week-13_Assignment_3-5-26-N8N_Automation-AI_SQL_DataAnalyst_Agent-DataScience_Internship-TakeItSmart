@@ -1,0 +1,5 @@
+What is the total sales amount for the Furniture category?
+
+Show the total profit for each Region.
+
+What are the top 5 most profitable Sub-Categories?
